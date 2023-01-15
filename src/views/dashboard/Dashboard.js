@@ -357,7 +357,7 @@ const BingMap = () => {
                         <Card className="rounded-0 p-0">
                           <Col className="m-2">
                             <Row>
-                              <Col>
+                              <Col className="vh=100">
                                 <div id="myMap" width="100%"></div>
                               </Col>
 
